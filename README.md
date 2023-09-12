@@ -8,8 +8,6 @@ I'm a passionate web developer with expertise in a wide range of technologies. H
 
 - ⚙️ I have a strong background in Vue.js and am skilled at creating dynamic and responsive user interfaces.
 
-- 📱 I'm currently exploring mobile app development to expand my skillset and create cross-platform applications.
-
 ## What I Do
 
 - 🚀 I love building web applications that not only look great but also provide a smooth user experience.
